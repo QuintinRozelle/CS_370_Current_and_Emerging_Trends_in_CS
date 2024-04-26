@@ -6,7 +6,7 @@ For this project, I was tasked with creating an intelligent agent that would fin
 
 ### What do computer scientists do and why does it matter?
 
-I think computer scientists build solutions to problems by focusing on the client's needs while also incorporating technology that optimally works toward that solution. In the case of this project, the client needed an artificial intelligence that efficiently solved a maze. This was completed by using tools (e.g., the Python programming language, Keras library, etc.) and desigining code that met the needs of the client.
+I think computer scientists build solutions to problems by focusing on the client's needs while also incorporating technology that optimally works toward that solution. In the case of this project, the client needed an artificial intelligence that efficiently solved a maze. This was completed by using tools (e.g., the Python programming language, Keras library, etc.) and designing code that met the needs of the client.
 
 ### How do I approach a problem as a computer scientist?
 
