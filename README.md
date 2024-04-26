@@ -14,3 +14,10 @@ I like to approach things in a stepwise and iterative approach. I prefer to buil
 
 ### What are my ethical responsibilities to the end user and the organization?
 
+My ethical responsibilities to end users and the organization are similar: to ensure privacy, reduce bias, and act in a legal and ethical manner. While going through this course, I found that adhering to the GDPR laws helps to ensure ethical behavior:
+- Transparency
+- Limited purpose
+- Minimization of data collection
+- Data accuracy
+- Limitations on storage durations
+- Data confidentiality
